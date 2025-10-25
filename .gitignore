@@ -2,7 +2,7 @@
 
 # postgres
 /postgres/*
-
+.
 # mcp
 /.mcp
 # dependencies
